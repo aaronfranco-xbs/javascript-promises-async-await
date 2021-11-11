@@ -11,8 +11,8 @@ some playlist
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [First Playlist](first-playlist.ew00l.pl.sw.md)
-2. [test](http://google.com)
+1. [test](http://google.com)
+2. [First Doc](first-doc.cG5Zw.sw.md)
 
 
 <br/>
